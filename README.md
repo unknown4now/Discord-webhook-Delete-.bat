@@ -1,1 +1,1 @@
-# Discord-webhook-Delete-.bat
+# Discord webhook Delete .bat
