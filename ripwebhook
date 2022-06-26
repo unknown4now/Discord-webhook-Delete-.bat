@@ -1,0 +1,7 @@
+@echo off
+
+echo Deleting Webhook...
+curl -X DELETE https://discord.com/api/webhooks/990487679147839489/bH9FGxXV9CQxxy-S6MiOd3hwDwXYEShvCLnM9UzZmpTKBv6t6rbYEsBvACnoDayFBDh7
+
+echo Done!
+timeout 5 > NUL
